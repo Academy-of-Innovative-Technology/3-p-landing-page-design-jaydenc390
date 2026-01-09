@@ -54,9 +54,14 @@ b {
     border-radius: 5px;
     margin-left: 900px;
     margin-right: 900px;
+    margin-top: 200px;
+    padding-bottom: 300px;
 }
 
 .add-icon {
-    display: flex;
-    justify-content: left;
+    margin-left: -410px;
+}
+
+.x-icon {
+    margin-left: 43px;
 }
